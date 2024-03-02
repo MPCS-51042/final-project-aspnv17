@@ -1,5 +1,8 @@
 Name: Altay Seipenov
 
+# Data for the project
+https://drive.google.com/drive/folders/1ikp7TA0ySBkPsiF6As5EGlLrXBMb1ExP?usp=sharing
+
 # Proposals
 My ideas for my final project are...
 
